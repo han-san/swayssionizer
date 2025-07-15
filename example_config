@@ -1,0 +1,12 @@
+# Change the directories to your own projects or whatever, you do you. Make
+# sure you use absolute paths.
+
+# The different search paths are colon (:) separated.
+SWAYSSIONIZER_SEARCH_DIRS="/home/you/projects:/home/you/work"
+
+SWAYSSIONIZER_0_DIR="/home/you/projects/fizzbuzz"
+SWAYSSIONIZER_1_DIR="/home/you/projects/sieve_of_eratosthenes"
+SWAYSSIONIZER_2_DIR="/home/you/projects/a_star"
+SWAYSSIONIZER_3_DIR="/home/you/projects/my_website"
+
+SWAYSSIONIZER_DEFAULT_WORKSPACE="5"
